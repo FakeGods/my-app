@@ -7,10 +7,10 @@ function Navbar () {
             <div className="container">
                 <div className="logo">Zosia?</div>
                 <div className="navbar_menu">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Home</li>
+                    <li>About Me</li>
+                    <li>Projects</li>
+                    <li>Contact</li>
                 </div>
             </div>
         </div>

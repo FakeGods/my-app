@@ -8,7 +8,7 @@ function Home () {
     return (
         <>
         < Navbar/>
-        <About/>
+        < About/>
         </>
     )
 }
